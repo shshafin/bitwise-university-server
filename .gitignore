@@ -1,7 +1,7 @@
-node_modules
+node_modules/
+dist/
+.env
+package-lock.json
 eslint.config.mjs
 package.json
-package-lock.json
-.env
 tsconfig.json
-dist
